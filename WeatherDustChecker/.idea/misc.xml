@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Mirim/AndroidStudioProjects/WeatherDustChecker/app/src/main/res/layout/dust_page_fragment.xml" value="0.128419452887538" />
-        <entry key="..\:/Users/Mirim/AndroidStudioProjects/WeatherDustChecker/app/src/main/res/layout/weather_page_fragment.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/WeatherDustChecker/app/src/main/res/layout/dust_page_fragment.xml" value="0.1875" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/WeatherDustChecker/app/src/main/res/layout/dust_test_fragment.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/WeatherDustChecker/app/src/main/res/layout/dusttestfragment.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/WeatherDustChecker/app/src/main/res/layout/weather_page_fragment.xml" value="0.17806484295845998" />
       </map>
     </option>
   </component>
